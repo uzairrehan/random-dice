@@ -1,3 +1,4 @@
+// all ok
 let pic = document.querySelectorAll("img");
 function ghumao() {
   let random = Math.ceil(Math.random() * 6);
